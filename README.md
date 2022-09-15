@@ -13,4 +13,9 @@ Este repositório contém o código desenvolvido na parte da API.
 //instalando dependências 
 npm i 
 
+
+// executando API
+npm run dev
 ```
+
+URL API: http://localhost:3000
