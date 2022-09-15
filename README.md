@@ -9,8 +9,11 @@ Este repositório contém o código desenvolvido na parte da API, Web e Mobile.
 
 ### Rodando
 > Entrar na pasta do projeto e executar: 
+
+``` 
 //instalando dependências 
-``` npm i ```
+
+npm i ```
 
 ## Web
 
